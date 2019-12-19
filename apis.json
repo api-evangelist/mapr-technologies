@@ -1,0 +1,88 @@
+{
+    "name": "MapR Technologies",
+    "description": "Headquartered in San Jose, Calif., MapR provides the industry???s only Converged Data Platform that enables customers to harness the power of big data by combining analytics in real-time to operational applications to improve business outcomes. With MapR...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28203-mapr-com.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mapr-technologies\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MapR Technologies",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28203-mapr-com.jpg",
+            "humanURL": "https:\/\/mapr.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mapr-technologies-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mapr-technologies"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/maprdocs.mapr.com\/52\/APIdocs.html"
+        },
+        {
+            "type": "Email",
+            "url": "sales@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-uk@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-southeu@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-dach@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-benelux@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-nordic@mapr.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-gc@mapr.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mapr"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/mapr.com"
+        }
+    ]
+}
